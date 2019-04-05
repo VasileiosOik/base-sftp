@@ -1,4 +1,4 @@
-package com.connection.basesftp.xmlHandler;
+package com.connection.basesftp.xmlhandler;
 
 import com.connection.basesftp.BaseSftpHandler;
 import org.springframework.integration.annotation.ServiceActivator;
